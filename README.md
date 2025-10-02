@@ -7,4 +7,4 @@
  -  Analyzed data with AI in under 30 minutes
  -  Used AI to code & debug in under 10 minutes.
 
-2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/AI-Tools-Chat-GPT-Certificate](https://github.com/chiramithshivaram/AI-Tools-Chat-GPT-Certificate)}
+2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/AI-Tools-Chat-GPT-Certificate/blob/main/AI%20Tools%20Chat-GPT%20Certificate.png](https://github.com/chiramithshivaram/AI-Tools-Chat-GPT-Certificate/blob/main/AI%20Tools%20Chat-GPT%20Certificate.png)}
